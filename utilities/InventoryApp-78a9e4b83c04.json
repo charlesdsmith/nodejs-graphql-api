@@ -1,12 +1,12 @@
 {
     "type": "service_account",
-    "project_id": "inventoryapp-1516743070296",
-    "private_key_id": "78a9e4b83c04d56dde1676d2484532fc1a629685",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC488NI+UPovbK\nHnfZoWiqK7xTcNnZSf65hcK5/DybGPcX+T7ojHWa6+dKbtdRA46eiTgt9eyp6tiE\nMafp5bdFhz3axCZo3g5wAsODjqE5IhJmva08oSzoFbNeTBiMZWYGajWvgRmMJxP4\njqJ4Y+cCiP47Irch+Vf9e9Ks18UVBFM/3TpRi48yfvyP/dBc6eXBA6kiu++obL99\nANaxoj9dQ+8Qp4MBEJUMz7RhuwkjURlr27860arsiZlkV0H/LeOBeyJ1on3hSHAg\n0UldrWuum7v1qYcNs+8hTa4zraKVNCxxzUBz2m/sQ70ex33fC8CaQHniOlDfNG3T\nKnvx3NJtAgMBAAECggEAKhq69QkL+AaaYDzYYkd9nAQiZfmDyy6yDkVAdltxAYYR\nfheuWGHeF5f/KmTLdlh5I7WcEkvm8yfGWrr6nqzvHSGUgrKtZKsSve7O7Blwqe37\nQUCZ0Hc2wzZK/+SbShuvANRJ4G6ZBR89MI4qOi3FLxZHLKH5pCihMqWhdI+SJ9Gc\neNNiWcNsnuqlT3qpR23Czu4jA2CN9D3zkgITrJ0Qy5T0v1v+drWnZ2RU1E1OG0Oa\nUyu+vnAyKv983Bn7qM2Ka+Jmey3EdmUC0lUwIzyXoBOALRSvtOnO6yXTe1+xevjT\nYoRoDi4DqwJegZBFNTkaFHNhUbp+X2/SiIAONCY/WQKBgQDsqqJzwCCh24F6l6OC\nTOD7EEaItfejqp8ZItz/VGS5J3NiBlMJz4+zz6FK/wNjrWdoeRy+6xjZ9WdNXEiQ\nipcWlf/H7Xm+wyhjXJCcl5BjL8pa8qBckJQClpJKer+VLByqJiE4rSVr0ZhQqZLp\n4S4QP2hhYUA06bML+0x62D44CQKBgQDSz4GahCspwmJ/cOt6q6w2d7aYlZnORWCg\navhwleoY2dsxy4I+TQZPC/YeMdRK1ZsMMSelDzKTAiRtttUtpYMFSaraovyF7O7A\n46ibluxUsFtRBuz2xGO0/7Na11V8UarS8V4CyMx13OoSrxOhUl/BgzJJT4jBR/RQ\nCp48Chf4RQKBgA5Ctek9oXm/TU0CyCJ42XGnaGiidlqRVGbiV+i2wB78BpLYiLZl\noGYYU8K+HQkrkLiV26qRZfz0MZZSwjibcUE2JqR4Zcad4dgi4r/cziF75riWOB17\nxL9nLUd5oAOwFcYW6BePL1sQ1Rm/LhATtn/aIkMD5ieKEXTeXpxkXVNpAoGBAJXt\nws00BsayWv8sPi2GfvpV9eVbMIJFUU2GBp9733xBJOWrSTwp57y8UxRyd/upI5Zu\nNzXrMxrewS3OhJrsRdyy4fKRTGurcLp6r2XI1tf8fVWJSWrPjeIioVqQH1pFcuqH\ng0cTrGZ+8XLMVXe8cCHevxrol+hu1lE+2/7zZszJAoGALqngXEPWKY1fCtFz/yfs\noo8wuiZdbUF3bEJmiSNLRXwO9NBb5SPdf8SB59CBe0Qys2E6Ab2sTnBjTE6y2lte\ndDYtjsaSC8dz4AXANeO/0JDt9oeqZJt+MAFWn5EbO2ld6crLmeVL6x0/6WISuXMi\nbBzjdMPMApA0Zv3ZYBB/2U4=\n-----END PRIVATE KEY-----\n",
+    "project_id": "***",
+    "private_key_id": "***",
+    "private_key":"***",
     "client_email": "gsm-117@inventoryapp-1516743070296.iam.gserviceaccount.com",
     "client_id": "108551126877083341209",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_uri": "***",
+    "token_uri": "***",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
     "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsm-117%40inventoryapp-1516743070296.iam.gserviceaccount.com"
   }
